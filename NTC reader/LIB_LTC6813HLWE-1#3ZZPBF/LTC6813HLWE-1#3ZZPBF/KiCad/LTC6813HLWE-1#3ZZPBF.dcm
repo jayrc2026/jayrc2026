@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC6813HLWE-1#3ZZPBF
+D Battery Management 18 Channel Multicell Battery Stack Monitor with Addressable isoSPI Interface
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6813-1.pdf
+$ENDCMP
+#
+#End Doc Library

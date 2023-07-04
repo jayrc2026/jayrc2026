@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LTC6813HLWE-1#3ZZPBF
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=65
+Version=2.1
+Released=2019-06-21 10:46:42
+Downloaded=2023-06-15 10:10:42
+3D=Y
