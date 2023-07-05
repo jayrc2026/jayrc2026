@@ -404,7 +404,7 @@
     (pin "2" (uuid 64072a81-19d0-4ba0-b50a-a40113efaa59))
     (pin "3" (uuid b535cbac-20a7-4dd5-a41e-f394a37d9049))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "J4") (unit 1)
         )
@@ -429,7 +429,7 @@
     )
     (pin "1" (uuid ea59f0ce-03e3-4c31-a9de-f99b143c145d))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR02") (unit 1)
         )
@@ -454,7 +454,7 @@
     )
     (pin "1" (uuid 7d01d2d1-c50e-4595-9bcb-87fc9fb36552))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR04") (unit 1)
         )
@@ -483,7 +483,7 @@
     (pin "4" (uuid 87dd1b15-ee5f-49f3-8695-c00ec28b4559))
     (pin "5" (uuid b36368b2-bad5-4ab3-9685-055c6efa1924))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "J3") (unit 1)
         )
@@ -512,7 +512,7 @@
     (pin "1" (uuid 948266fb-0733-4507-a8ed-83eb61a3b183))
     (pin "2" (uuid eb21c82a-5912-4418-9a34-7c7ed9242709))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "R3") (unit 1)
         )
@@ -537,7 +537,7 @@
     )
     (pin "1" (uuid 10e48fc0-ca7e-47ce-8389-e2fea9b1beca))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR03") (unit 1)
         )
@@ -562,7 +562,7 @@
     )
     (pin "1" (uuid 5bcc58ee-e881-4fa7-8f7f-59472a1c3fd7))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR01") (unit 1)
         )
@@ -587,7 +587,7 @@
     )
     (pin "1" (uuid 94f41851-0170-409b-8a3c-ab5166704ac6))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR015") (unit 1)
         )
@@ -614,7 +614,7 @@
     (pin "2" (uuid 5431229b-58f8-45d9-af66-2a940a5175e3))
     (pin "3" (uuid dd3b6afd-0e3b-46ac-8cf8-59725a9ae31a))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "J5") (unit 1)
         )
@@ -639,7 +639,7 @@
     )
     (pin "1" (uuid 9fa50b4a-43a8-4fd6-8040-9505ee263d00))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "#PWR016") (unit 1)
         )
@@ -665,7 +665,7 @@
     (pin "1" (uuid fe47c09b-7631-4275-8dd2-642e4e923725))
     (pin "2" (uuid e4c7a90d-f617-4b2f-8f63-989f7a20f4b0))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/c6cfb8f6-6da8-49f0-a9bf-330aa74b7f63"
           (reference "R2") (unit 1)
         )

@@ -1047,7 +1047,7 @@
     )
     (pin "1" (uuid 18ff6023-ee2b-4c16-9b70-cb92ae09491a))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/d45cf43a-d0e0-470e-aea6-55e44dff3030"
           (reference "#PWR014") (unit 1)
         )
@@ -1072,7 +1072,7 @@
     )
     (pin "1" (uuid d4f58c46-7885-4f88-beca-aff614fbe362))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/d45cf43a-d0e0-470e-aea6-55e44dff3030"
           (reference "#PWR013") (unit 1)
         )
@@ -1127,7 +1127,7 @@
     (pin "8" (uuid d9602414-2584-48b3-84ea-daaab0f427c6))
     (pin "9" (uuid ca6aaf18-5599-471a-b691-8e090fb4571b))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "J1") (unit 1)
         )
@@ -1155,7 +1155,7 @@
     )
     (pin "1" (uuid fd12deb3-5490-4b07-883a-72750a2820a9))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/d45cf43a-d0e0-470e-aea6-55e44dff3030"
           (reference "#PWR011") (unit 1)
         )
@@ -1210,7 +1210,7 @@
     (pin "8" (uuid d9654e90-f82f-4ada-a6b4-c196a0edd130))
     (pin "9" (uuid 71cfaf80-bbe2-4d05-9940-a373838c0226))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "J1") (unit 1)
         )
@@ -1238,7 +1238,7 @@
     )
     (pin "1" (uuid 66664226-0d69-40f5-8635-2c5a8ec7247b))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/d45cf43a-d0e0-470e-aea6-55e44dff3030"
           (reference "#PWR012") (unit 1)
         )
@@ -1293,7 +1293,7 @@
     (pin "8" (uuid df3cabc3-5073-4401-b24d-e4b664bab218))
     (pin "9" (uuid ae60a4f3-deba-4201-a184-fb3bff26e48c))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "J2") (unit 1)
         )
@@ -1351,7 +1351,7 @@
     (pin "8" (uuid d666be24-9177-44e3-8962-02f5cb4255e5))
     (pin "9" (uuid 62afc563-b96a-47f6-be01-75bf59229357))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "J2") (unit 1)
         )

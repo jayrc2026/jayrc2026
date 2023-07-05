@@ -481,7 +481,7 @@
     )
     (pin "1" (uuid c526fc65-3917-45e2-80cb-186e361f1e66))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "#PWR08") (unit 1)
         )
@@ -544,7 +544,7 @@
     (pin "8" (uuid d568bcda-f9e2-46e0-8718-5b476e6df6bf))
     (pin "9" (uuid ccbcb43c-5aed-425a-89ef-ca5d2a536851))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02"
           (reference "IC2") (unit 1)
         )
@@ -572,7 +572,7 @@
     )
     (pin "1" (uuid 805767ee-3abd-4a4f-9839-36ff7772d53d))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "#PWR010") (unit 1)
         )
@@ -597,7 +597,7 @@
     )
     (pin "1" (uuid 6ff5064e-34d4-49bf-9562-91f6b4a1ef0a))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "#PWR09") (unit 1)
         )
@@ -623,7 +623,7 @@
     (pin "1" (uuid abbc9ae0-8122-4577-a672-d4b61ebaab1b))
     (pin "2" (uuid b278cb3d-7a2c-4b75-82e7-b18ba94ea7b2))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "C1") (unit 1)
         )
@@ -648,7 +648,7 @@
     )
     (pin "1" (uuid 6c61cff3-4ea2-4725-87c6-abac52b7179c))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "#PWR07") (unit 1)
         )
@@ -674,7 +674,7 @@
     (pin "1" (uuid 99f7cc09-25a0-49dd-8b7d-47dd99de64cf))
     (pin "2" (uuid e7f4c9e6-8317-4953-a76c-9bf78289e31f))
     (instances
-      (project "NTC reader"
+      (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/b8f9e5a6-d2b2-4b51-9ece-b1efbf1a3c7c"
           (reference "R1") (unit 1)
         )
