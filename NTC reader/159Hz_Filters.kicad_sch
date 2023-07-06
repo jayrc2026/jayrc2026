@@ -2375,9 +2375,14 @@
     (property "Datasheet" "~" (at 256.032 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0514a094-09b5-41b1-873b-de17caff0a49))
-    (pin "2" (uuid 4eb953fc-21f4-42fe-b162-c375215b07da))
+    (pin "1" (uuid 0bbe72f1-93c7-4132-946f-dd188201dd6c))
+    (pin "2" (uuid ed27ddaa-63a3-400f-ba94-f6b67cb55a83))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R35") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R35") (unit 1)
@@ -2406,8 +2411,13 @@
     (property "Datasheet" "" (at 335.026 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ba3421e-a934-4c80-aa27-9159f4793356))
+    (pin "1" (uuid c213ba05-0314-4e49-acfe-08f0b8cf7d07))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR062") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR062") (unit 1)
@@ -2436,9 +2446,14 @@
     (property "Datasheet" "~" (at 264.668 106.934 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b18ba74c-7784-4a10-a20a-cd968f5d1ae7))
-    (pin "2" (uuid 17ccb178-1b3a-439d-9e05-2d31f55d0db1))
+    (pin "1" (uuid db0fba23-4fd5-40a2-95ab-ee60c06c9ef8))
+    (pin "2" (uuid 446e4fd9-fc16-4b5c-b994-18521e5e9383))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C10") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C10") (unit 1)
@@ -2467,8 +2482,13 @@
     (property "Datasheet" "" (at 194.31 178.308 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8fb7cc1e-4b18-4909-a535-aec85f824caa))
+    (pin "1" (uuid b9754691-d23d-46b2-a773-d333feb8af0c))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR028") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR028") (unit 1)
@@ -2497,9 +2517,14 @@
     (property "Datasheet" "~" (at 185.42 194.056 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca0ff729-042e-4ff9-bcd8-953207d5dc12))
-    (pin "2" (uuid 30b4c5a0-c0b9-410a-a4fb-69d87891534e))
+    (pin "1" (uuid 0fc93789-9f21-43a7-9c22-4505151ee351))
+    (pin "2" (uuid 35c2c319-c5fd-4445-817a-78dc8685d45d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R16") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R16") (unit 1)
@@ -2528,8 +2553,13 @@
     (property "Datasheet" "" (at 194.31 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5121910-25ce-4d4f-b4af-29600d33ad5e))
+    (pin "1" (uuid 95674feb-a138-491e-a319-d9f674372d91))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR027") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR027") (unit 1)
@@ -2558,9 +2588,14 @@
     (property "Datasheet" "~" (at 185.166 125.476 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6e51f89-74c2-4445-8d88-0a1a84bc3b1c))
-    (pin "2" (uuid 97675c98-3f0b-45b9-bdc4-211d9fc2197b))
+    (pin "1" (uuid 62d1e7ee-584e-4e28-9d09-ff18003afc7a))
+    (pin "2" (uuid a53a6e89-19ce-4cb8-9e8c-7da66da25517))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R13") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R13") (unit 1)
@@ -2589,9 +2624,14 @@
     (property "Datasheet" "~" (at 312.166 166.624 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83aad1e3-4217-48cb-9ce2-57f864105e5d))
-    (pin "2" (uuid 25256af6-3f48-4b16-825b-1a8503654911))
+    (pin "1" (uuid 7eb8e871-4af2-48ad-8b6b-3c638b1954c0))
+    (pin "2" (uuid 4ac49813-b83c-4251-b15a-f2cb51ec4c7b))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R39") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R39") (unit 1)
@@ -2620,9 +2660,14 @@
     (property "Datasheet" "~" (at 255.778 103.124 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 597f0d49-8369-4158-8497-bb97763b20e8))
-    (pin "2" (uuid 70ee29f7-eab7-486e-abf7-0e2a89811083))
+    (pin "1" (uuid 64f9ca23-03b7-4728-a55e-e8922154c456))
+    (pin "2" (uuid a2deabd8-79c7-41f6-a8d6-66ec7087e09e))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R28") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R28") (unit 1)
@@ -2651,9 +2696,14 @@
     (property "Datasheet" "~" (at 335.026 197.612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4330a9a8-f1a9-4f8e-bc58-08df07a2596b))
-    (pin "2" (uuid fca8ff22-8c31-4cbe-8db6-405aeed86840))
+    (pin "1" (uuid 92c26d72-0984-4350-85ef-a6d8f7034d9d))
+    (pin "2" (uuid d2ed4bcb-73cf-4281-8051-6a0fb401601a))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C22") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C22") (unit 1)
@@ -2682,8 +2732,13 @@
     (property "Datasheet" "" (at 242.062 204.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb20a37d-d34f-4885-8a3b-fee5ae769b0f))
+    (pin "1" (uuid 52422a0e-518f-42c9-bf86-a16d162c7413))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR038") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR038") (unit 1)
@@ -2712,9 +2767,14 @@
     (property "Datasheet" "~" (at 171.45 261.874 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95eab50a-b2cf-4a25-b8a8-b2e38a709a65))
-    (pin "2" (uuid 9dc4234c-49e1-4a2b-832b-b3960fe7df4a))
+    (pin "1" (uuid 44775f3d-ff52-4bdd-bfb5-01f4445e91f3))
+    (pin "2" (uuid 30baef19-3781-426d-a63e-da5584f76040))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R11") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R11") (unit 1)
@@ -2743,8 +2803,13 @@
     (property "Datasheet" "" (at 335.026 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d3877fe-8b71-47e2-821b-d1b47d8e8bb2))
+    (pin "1" (uuid b04c8cf9-d7d9-4fc7-a28b-8c10f4d26720))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR064") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR064") (unit 1)
@@ -2773,9 +2838,14 @@
     (property "Datasheet" "~" (at 396.748 194.056 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d1e8645f-11b0-4738-9577-16ccb8758795))
-    (pin "2" (uuid fced54ca-5603-4282-87fc-a824d0413750))
+    (pin "1" (uuid 557ae096-ff0b-48cf-b4d9-4f9f4c9cfcdf))
+    (pin "2" (uuid 6e1cf00f-db13-4bf7-a9e9-f6ff2606af3f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R64") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R64") (unit 1)
@@ -2804,8 +2874,13 @@
     (property "Datasheet" "" (at 171.196 114.046 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22c4ec39-3f65-4745-b39e-c0de5803da99))
+    (pin "1" (uuid 1a9bea31-822a-4de0-a0d7-7b2bacd8cc73))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR018") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR018") (unit 1)
@@ -2834,9 +2909,14 @@
     (property "Datasheet" "~" (at 264.922 152.146 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a8eba2f5-99b0-4272-80f4-0aeaea5cb86b))
-    (pin "2" (uuid a8b5e857-1b08-4760-a764-46a11f49d1f2))
+    (pin "1" (uuid ad965f0b-39e7-43d1-8bae-afa8c53513a6))
+    (pin "2" (uuid 9c084e94-3db4-4645-94ea-b383407d5b1e))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C12") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C12") (unit 1)
@@ -2865,8 +2945,13 @@
     (property "Datasheet" "" (at 242.062 254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 417d206c-9165-448b-a755-804ffe900fce))
+    (pin "1" (uuid 115ec0c5-a265-4946-9390-4e7c066c6e73))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR040") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR040") (unit 1)
@@ -2895,8 +2980,13 @@
     (property "Datasheet" "" (at 405.638 273.304 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2bb097d6-155b-4429-830d-11fc116f03bb))
+    (pin "1" (uuid bd87d532-ad88-422f-b1d5-cd5bef9e2dc1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR080") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR080") (unit 1)
@@ -2925,9 +3015,14 @@
     (property "Datasheet" "~" (at 194.31 197.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eb4f7120-1129-4602-96bf-3489af1b9a0b))
-    (pin "2" (uuid eb5e59fe-37e7-42ca-a8b9-27ce62745be0))
+    (pin "1" (uuid b17a671a-6c47-4ffd-9897-f42ea21281db))
+    (pin "2" (uuid fab4afe0-faa0-40ed-8f59-9fb8375b8dd1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C6") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C6") (unit 1)
@@ -2956,8 +3051,13 @@
     (property "Datasheet" "" (at 312.166 254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba436c66-35a1-4e32-a0eb-63c4b9e8b341))
+    (pin "1" (uuid a9da8851-7fc3-4a6b-9a1e-82b9777e9b3e))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR056") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR056") (unit 1)
@@ -2986,8 +3086,13 @@
     (property "Datasheet" "" (at 335.026 246.634 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e2652b20-45c5-4b72-b672-47ce658b50c6))
+    (pin "1" (uuid 6110dbdf-85c9-4a5e-82db-0ae23b5e5e9d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR063") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR063") (unit 1)
@@ -3016,8 +3121,13 @@
     (property "Datasheet" "" (at 405.384 110.998 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bea5d854-f0d2-41d4-a062-6e4bb4aba11d))
+    (pin "1" (uuid 5abc95ef-8fc9-41ca-83bf-aa2fdf4b97f4))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR073") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR073") (unit 1)
@@ -3046,9 +3156,14 @@
     (property "Datasheet" "~" (at 326.136 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8fc1a297-7096-4dee-90a7-4dcf697aaa01))
-    (pin "2" (uuid 36d94c4f-aa5a-4e1f-af19-0248971269e5))
+    (pin "1" (uuid 09aff5e1-e11f-4928-b52d-1a9c6f4bf431))
+    (pin "2" (uuid 5a9b2fc0-1c6b-43de-9337-73dc8d032df0))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R51") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R51") (unit 1)
@@ -3077,8 +3192,13 @@
     (property "Datasheet" "" (at 312.166 182.372 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34e3fc0c-259f-4f48-8a17-19a6b097238e))
+    (pin "1" (uuid 56c112f8-5c00-451d-9a1f-dc07be3c5c66))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR053") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR053") (unit 1)
@@ -3107,9 +3227,14 @@
     (property "Datasheet" "~" (at 185.42 239.268 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1c44635-3f73-44f6-b2bd-dac6219a0c7f))
-    (pin "2" (uuid 30e6b706-fa4e-4303-a057-31a057395ffa))
+    (pin "1" (uuid 802ae0e0-0d06-406c-89f7-5f9c8edfbdc3))
+    (pin "2" (uuid 07c354e1-ac55-45c0-9d05-676b83997714))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R18") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R18") (unit 1)
@@ -3138,9 +3263,14 @@
     (property "Datasheet" "~" (at 312.166 144.526 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d02123b1-76e6-4ac2-8fe9-35cd8208cb72))
-    (pin "2" (uuid 43fcd24e-b4cb-47c1-a81d-91b44935896b))
+    (pin "1" (uuid 988cb281-6413-41f0-8925-ccd2116e3f80))
+    (pin "2" (uuid edb8570e-51d1-4e7d-a743-7b4527b65a92))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R38") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R38") (unit 1)
@@ -3169,8 +3299,13 @@
     (property "Datasheet" "" (at 405.638 223.774 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8a94d88-05d7-43f5-8c7b-0b2d02ea5739))
+    (pin "1" (uuid 59487b62-754a-4fb6-8f3c-842583a8edee))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR078") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR078") (unit 1)
@@ -3199,9 +3334,14 @@
     (property "Datasheet" "~" (at 194.056 129.286 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 055253e4-2584-475f-b8fa-63c0f82ea190))
-    (pin "2" (uuid de23882e-2eef-4603-8cef-75358fa9daf3))
+    (pin "1" (uuid 75fa4245-47b6-430c-8abe-9262c2c64dd2))
+    (pin "2" (uuid 8996e0a6-1a40-4c6d-ad69-2e0b664eb85f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C3") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C3") (unit 1)
@@ -3230,9 +3370,14 @@
     (property "Datasheet" "~" (at 171.196 99.568 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e4f7fbd-3a4e-49ff-9f85-acd1b1211e8e))
-    (pin "2" (uuid 33350713-56db-4157-883f-6c75bb29dad1))
+    (pin "1" (uuid f8dfb93a-b65b-49dd-8aca-8c163af442c2))
+    (pin "2" (uuid 8f2287b8-b86e-44c9-bc62-b3348d38f6ec))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R4") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R4") (unit 1)
@@ -3261,9 +3406,14 @@
     (property "Datasheet" "~" (at 312.166 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ee8603fa-98e2-4078-b657-11b381739f44))
-    (pin "2" (uuid d5fcd0f6-f68c-4cbb-8c34-c53670d3073f))
+    (pin "1" (uuid ac94b5b0-a8d9-4d08-bab1-265414f6c469))
+    (pin "2" (uuid c12a7f11-b1b7-4073-b7c3-6abbc3398657))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R41") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R41") (unit 1)
@@ -3292,8 +3442,13 @@
     (property "Datasheet" "" (at 242.062 136.906 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef95bfc2-7020-43b4-b417-9670cc63ed10))
+    (pin "1" (uuid 32b3f933-a0af-4d69-ad49-ac3e8a315495))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR035") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR035") (unit 1)
@@ -3322,9 +3477,14 @@
     (property "Datasheet" "~" (at 382.778 166.878 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 515c5117-9a7b-4bb0-8846-6fa65c8f4c24))
-    (pin "2" (uuid 06a164a7-e6ef-4d68-9cb2-39aca3df3587))
+    (pin "1" (uuid f725d149-8f93-4447-ba9a-19c0f26e82bb))
+    (pin "2" (uuid 094b5390-aa62-437c-8b7b-f74c0eacb369))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R55") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R55") (unit 1)
@@ -3353,9 +3513,14 @@
     (property "Datasheet" "~" (at 312.166 261.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93211df1-d7c5-475e-9b40-0c451c87045e))
-    (pin "2" (uuid 36c8cab8-2318-4873-8277-7ab241b2bd30))
+    (pin "1" (uuid 5781651f-f4d5-47b6-b12f-dd037d0a2994))
+    (pin "2" (uuid a3955a24-167d-4f55-9669-ee8d395c55bc))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R43") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R43") (unit 1)
@@ -3384,9 +3549,14 @@
     (property "Datasheet" "~" (at 405.384 107.188 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2afbbae-2ed9-4e22-9aec-f10107beb946))
-    (pin "2" (uuid 314213e0-ceb0-4bb9-ba9a-23785d91f8a9))
+    (pin "1" (uuid d6c4e78d-e49c-4cfc-a3da-ccfefeec950a))
+    (pin "2" (uuid 3708e003-ef7c-45fd-b41a-5fb2070df460))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C26") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C26") (unit 1)
@@ -3415,8 +3585,13 @@
     (property "Datasheet" "" (at 242.062 182.372 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3319a4eb-c6c1-431a-9788-153211965cde))
+    (pin "1" (uuid 7f805d27-214d-453b-a96a-5c9b20f12a32))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR037") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR037") (unit 1)
@@ -3445,9 +3620,14 @@
     (property "Datasheet" "~" (at 405.638 174.498 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28d9d08a-c569-463a-933c-78f4b0882c0d))
-    (pin "2" (uuid 7fcc9c0b-89d9-4e7b-871e-cca70ce9223b))
+    (pin "1" (uuid cf762bc7-2434-43cd-a5a4-eee86f90c915))
+    (pin "2" (uuid 007cb405-36ef-47de-b1f1-2090edb25d17))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C29") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C29") (unit 1)
@@ -3476,9 +3656,14 @@
     (property "Datasheet" "~" (at 405.638 269.494 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1d8d0c92-14f9-4ed5-93d5-46b097ea31ff))
-    (pin "2" (uuid 5903f322-29ec-4f1a-b8bf-e9212fda1aff))
+    (pin "1" (uuid 27d434be-708c-458f-925d-6866b67c81de))
+    (pin "2" (uuid 1b242598-1ba9-4a64-9b5a-209b00e8ea57))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C33") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C33") (unit 1)
@@ -3507,9 +3692,14 @@
     (property "Datasheet" "~" (at 171.45 190.246 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15533999-0d34-44e0-9d3b-3235b0984626))
-    (pin "2" (uuid 2fb6fbcb-3418-4b79-9749-6b2274b3f456))
+    (pin "1" (uuid b68a38ad-8680-4960-a72d-391bed045bd3))
+    (pin "2" (uuid 2c79a745-c801-4f2e-bb1d-7dec7fa1615d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R8") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R8") (unit 1)
@@ -3538,8 +3728,13 @@
     (property "Datasheet" "" (at 312.166 204.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 51d1b32d-e4ec-4877-9923-025e8794664e))
+    (pin "1" (uuid 50bdba6e-f7db-40a0-bf53-dfdba7123759))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR054") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR054") (unit 1)
@@ -3568,9 +3763,14 @@
     (property "Datasheet" "~" (at 185.42 170.688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3b0e39c-882c-4f32-a296-59d717350774))
-    (pin "2" (uuid 07b569ce-e8ac-440c-8c16-b21948accee8))
+    (pin "1" (uuid aea224a0-54b6-4aa5-939b-7fea910ba7c8))
+    (pin "2" (uuid 8be0eaed-a36b-4955-b0b2-f83764b42d1f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R15") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R15") (unit 1)
@@ -3599,9 +3799,14 @@
     (property "Datasheet" "~" (at 194.056 107.188 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4dca7f8e-ddbd-4c67-961d-322235b04bce))
-    (pin "2" (uuid 3ad57e25-fe07-4cc1-945a-5729188786b3))
+    (pin "1" (uuid 9d53e838-89cd-402e-ae7b-ddc56f42b3bd))
+    (pin "2" (uuid 8d55dc50-7395-4727-a28c-94088bff6850))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C2") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C2") (unit 1)
@@ -3630,9 +3835,14 @@
     (property "Datasheet" "~" (at 382.778 261.874 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c090cbb6-4454-4ca6-bbe4-21f7423eadc2))
-    (pin "2" (uuid df83c764-45d2-4c8e-a0b7-b91ffbfb0261))
+    (pin "1" (uuid 110f2395-d60d-45b6-a8e2-f5cee4927dba))
+    (pin "2" (uuid 09c341bc-76ad-4f64-917e-b78cc034241b))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R59") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R59") (unit 1)
@@ -3661,9 +3871,14 @@
     (property "Datasheet" "~" (at 326.136 193.802 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28a33c71-fa36-4907-8c3f-e3b76015f41e))
-    (pin "2" (uuid a2111bea-e492-4eac-ab6e-9b0ef9714720))
+    (pin "1" (uuid cb16766f-f785-40d5-a98e-9e8cc09d51ed))
+    (pin "2" (uuid 60d1c246-fdbd-498c-bb87-8abda7f65f72))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R48") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R48") (unit 1)
@@ -3692,9 +3907,14 @@
     (property "Datasheet" "~" (at 382.778 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 611b909c-a1a8-4c75-aad2-068dd8695ccd))
-    (pin "2" (uuid 7f98b639-fb48-4eb6-b187-0cdb5fd42c85))
+    (pin "1" (uuid bb4b03d7-f758-497e-b37e-5d44a6e3b0ba))
+    (pin "2" (uuid 616c8a75-dcf6-4035-a0fa-1758a017f677))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R54") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R54") (unit 1)
@@ -3723,9 +3943,14 @@
     (property "Datasheet" "~" (at 405.384 129.286 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af01e4aa-c023-428a-ac3f-c809573898a0))
-    (pin "2" (uuid af9e4517-b6a8-408c-a987-4e09fd2431d2))
+    (pin "1" (uuid 70ba0a8a-e3bc-422d-a9e9-aea7bfad0325))
+    (pin "2" (uuid bb7b7ed4-3652-4d67-8887-47d2b1a22899))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C27") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C27") (unit 1)
@@ -3754,8 +3979,13 @@
     (property "Datasheet" "" (at 171.45 159.258 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70cee2ea-9981-4427-bf3f-387f8877f830))
+    (pin "1" (uuid 9378746a-e3ee-4bd6-96a1-95fc878bbcc1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR020") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR020") (unit 1)
@@ -3784,9 +4014,14 @@
     (property "Datasheet" "~" (at 382.778 235.458 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ebdb7b49-0ced-483f-8d8e-18d5d0f27dcf))
-    (pin "2" (uuid 87ebef42-957a-406a-b252-2bd1d8f195a1))
+    (pin "1" (uuid 067083db-ec34-468b-8ebe-5d666c207620))
+    (pin "2" (uuid 2348d4fe-a46c-480b-aebc-27f3f313f1c3))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R58") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R58") (unit 1)
@@ -3815,9 +4050,14 @@
     (property "Datasheet" "~" (at 256.032 193.802 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid baba4889-ebc3-4d93-88c5-2a3ea7404f54))
-    (pin "2" (uuid 78fd308e-0814-4feb-ad49-1f93529bafcf))
+    (pin "1" (uuid 6aff9d00-17dd-4742-8a37-d03e5c4b8995))
+    (pin "2" (uuid f8239b13-92c2-4014-9522-3d3aaaae0c03))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R32") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R32") (unit 1)
@@ -3846,9 +4086,14 @@
     (property "Datasheet" "~" (at 241.808 99.314 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7785df11-6a1d-4835-b1e8-0c70234618bd))
-    (pin "2" (uuid 7f888f7c-e431-4354-a28e-3d16de59b105))
+    (pin "1" (uuid 21ff61cf-9037-4517-978a-b3f7bd77a915))
+    (pin "2" (uuid c191de3e-2fcf-4054-ae3e-6f327cac1dff))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R20") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R20") (unit 1)
@@ -3877,9 +4122,14 @@
     (property "Datasheet" "~" (at 185.166 103.378 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a4e2a34-2a94-4df0-a14b-bbf99d97d705))
-    (pin "2" (uuid 3ef9f1b4-18f5-462f-aeac-c50b8eb6a1c3))
+    (pin "1" (uuid 09bd7da5-7161-4869-b91e-507771d0203d))
+    (pin "2" (uuid d0e3c072-bb8f-43fc-8217-2fa2ded9687f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R12") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R12") (unit 1)
@@ -3908,8 +4158,13 @@
     (property "Datasheet" "" (at 194.31 246.888 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 825e28a0-e2a7-42b3-85e4-5a3bddf34114))
+    (pin "1" (uuid 9d18dd56-cc7e-4a1d-a466-a7071e00ecde))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR031") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR031") (unit 1)
@@ -3938,8 +4193,13 @@
     (property "Datasheet" "" (at 382.778 227.838 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f77bd9a9-71bd-49b7-a990-31355712e70e))
+    (pin "1" (uuid 6229767f-96ee-4780-bbc3-77e80a0faac5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR071") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR071") (unit 1)
@@ -3968,8 +4228,13 @@
     (property "Datasheet" "" (at 264.922 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ece0e9e-bfea-409f-8222-250d5f8a4bf1))
+    (pin "1" (uuid 99c5aad0-ab26-4c7f-a785-fbe437ea1403))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR048") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR048") (unit 1)
@@ -3998,9 +4263,14 @@
     (property "Datasheet" "~" (at 335.026 242.824 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0ebd0a7c-9cec-4d2c-a296-900161717a1c))
-    (pin "2" (uuid 3602e393-82f7-476b-a3b6-75fa5a345f62))
+    (pin "1" (uuid 207369e0-e9f6-4b12-bdae-30b4e81d214a))
+    (pin "2" (uuid 9f5d5b79-f12c-41af-b57d-b7e45cae1b83))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C24") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C24") (unit 1)
@@ -4029,9 +4299,14 @@
     (property "Datasheet" "~" (at 171.45 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a58bf73-074a-4691-acc7-d2f3ba281293))
-    (pin "2" (uuid 606f42ae-f388-4531-a2c6-a78a8b823215))
+    (pin "1" (uuid 3df2bd89-3ceb-45f5-a3c7-7b81e6fff1cc))
+    (pin "2" (uuid bbc2f0d9-ca3c-4ed9-9f29-5715401fdbc5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R6") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R6") (unit 1)
@@ -4060,9 +4335,14 @@
     (property "Datasheet" "~" (at 396.748 170.688 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a53f99f-062f-49f9-9097-34e91149b49d))
-    (pin "2" (uuid 97cfa2b2-9e98-461b-b7a3-8abe62a1edbb))
+    (pin "1" (uuid 7cc7df19-024c-4420-b428-4bea154c13ff))
+    (pin "2" (uuid 39b25ed6-24ae-445a-8557-db91347be0dd))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R63") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R63") (unit 1)
@@ -4091,9 +4371,14 @@
     (property "Datasheet" "~" (at 382.778 190.246 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b400bfe-8cbb-4b11-b4eb-cac518f9524a))
-    (pin "2" (uuid dde61dee-0513-46cb-a7ea-e4af0c49b25e))
+    (pin "1" (uuid ab8f67b9-6300-4d5f-8a1f-8d2218b978c8))
+    (pin "2" (uuid 00f1cebd-4a41-4240-876e-eadb80f46e2f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R56") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R56") (unit 1)
@@ -4122,9 +4407,14 @@
     (property "Datasheet" "~" (at 171.45 235.458 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8ceb72c-6342-4ffa-a139-dc9029c538ed))
-    (pin "2" (uuid 5cce1b64-5a71-40cf-bafd-c3abbb76812c))
+    (pin "1" (uuid 269d6873-6add-4a85-a2aa-2f05b825f3c2))
+    (pin "2" (uuid 7f0c9d4a-1862-4fae-883e-96f0e2aadcf9))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R10") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R10") (unit 1)
@@ -4153,8 +4443,13 @@
     (property "Datasheet" "" (at 382.778 159.258 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8e72ae5a-928d-4335-8640-20c17b8e7db4))
+    (pin "1" (uuid 2ef10d64-9c36-4f8e-b0cf-7c25721ac747))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR068") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR068") (unit 1)
@@ -4183,9 +4478,14 @@
     (property "Datasheet" "~" (at 405.638 219.964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b61cf4b-a4b8-487e-9a6b-f42716346b8d))
-    (pin "2" (uuid b5e2f06e-beae-40d6-9a14-095e29f5f4d9))
+    (pin "1" (uuid 6c5dae00-ea42-4500-a850-3247f8404672))
+    (pin "2" (uuid c23203e9-8491-4e43-afd5-a22989d0f4d4))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C31") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C31") (unit 1)
@@ -4214,9 +4514,14 @@
     (property "Datasheet" "~" (at 382.524 121.666 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a13552a-d346-4102-9daa-94e42247bd02))
-    (pin "2" (uuid c9834673-a135-41b5-9857-8428a41ae529))
+    (pin "1" (uuid 12d78178-9b33-4bef-8d81-ddc0ab31a31e))
+    (pin "2" (uuid 60b06dd8-bda3-4a7f-99dd-c9b0fd6463e5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R53") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R53") (unit 1)
@@ -4245,8 +4550,13 @@
     (property "Datasheet" "" (at 382.778 204.724 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 452cfb40-8171-4b5f-8293-26b5b9574c35))
+    (pin "1" (uuid ac4b92e1-fe3e-42fe-87fb-2a979cb94cb7))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR070") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR070") (unit 1)
@@ -4275,9 +4585,14 @@
     (property "Datasheet" "~" (at 335.026 219.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86c2d81a-3212-4665-88e7-a6d6dfc07d31))
-    (pin "2" (uuid 645bb078-c4f3-440b-a0bf-f0d16051f7be))
+    (pin "1" (uuid 32e62b8b-0d5f-4cfd-8508-f89c67f684ce))
+    (pin "2" (uuid 111a9785-b978-4cbe-8a1e-83a29e7a09f9))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C23") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C23") (unit 1)
@@ -4306,9 +4621,14 @@
     (property "Datasheet" "~" (at 171.45 212.344 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 41759941-a18a-4784-bd59-223723974b9f))
-    (pin "2" (uuid 568c99b9-6d2e-49ed-85fe-c3d7d42e686e))
+    (pin "1" (uuid 72a7e1b2-d97c-44f0-bf00-9c61d6bc9edc))
+    (pin "2" (uuid 0f83b000-83b1-47b3-982a-d0144cb25016))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R9") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R9") (unit 1)
@@ -4337,8 +4657,13 @@
     (property "Datasheet" "" (at 242.062 227.584 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0e9dd90-7e2c-4756-8b6d-e167603b8e24))
+    (pin "1" (uuid bd29b096-030e-4c14-9f79-32f5cfd543b9))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR039") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR039") (unit 1)
@@ -4367,9 +4692,14 @@
     (property "Datasheet" "~" (at 264.922 219.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c38f67fb-cebc-405f-b82e-01a6b9b33a1b))
-    (pin "2" (uuid 474bd8bf-c952-4af6-a2bc-21b4ee671fb1))
+    (pin "1" (uuid 0c81a392-38dd-4340-abab-27e7d5fb07ef))
+    (pin "2" (uuid 2ef9cb6a-d7c3-4c5d-abb1-5930e6ec371a))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C15") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C15") (unit 1)
@@ -4398,9 +4728,14 @@
     (property "Datasheet" "~" (at 264.922 197.612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5425e1d9-79ac-47eb-9641-11eea73b9569))
-    (pin "2" (uuid 1c7610f4-5381-45c8-841c-cc384469bfc1))
+    (pin "1" (uuid 65b3cd43-c6a5-4e4f-ba9b-c46e78d0648d))
+    (pin "2" (uuid 472fbe8a-c89b-44ec-a94b-25cb13c80783))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C14") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C14") (unit 1)
@@ -4429,8 +4764,13 @@
     (property "Datasheet" "" (at 171.196 91.948 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d404a1a2-8992-4a8c-bfd4-73587c511f30))
+    (pin "1" (uuid f9b5596c-fe8e-4301-b9c4-9fd65c91fd5b))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR017") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR017") (unit 1)
@@ -4459,9 +4799,14 @@
     (property "Datasheet" "~" (at 405.638 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 71fad9a4-b482-47eb-b622-9da16eef2b92))
-    (pin "2" (uuid fb67386d-49b7-47c6-a003-8d0edd765891))
+    (pin "1" (uuid 573836f4-4e56-4751-9111-6690a15a3977))
+    (pin "2" (uuid c4fedecb-2a46-4595-b0f0-df3335b387f8))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C28") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C28") (unit 1)
@@ -4490,9 +4835,14 @@
     (property "Datasheet" "~" (at 396.748 216.154 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6965702-8d1b-4e44-9858-b3877f6a0177))
-    (pin "2" (uuid b23f30e0-ae87-46ef-9c4a-672d5b9775a2))
+    (pin "1" (uuid 6547c865-f56a-4fcf-a270-cad2ebbd6e74))
+    (pin "2" (uuid c15dee23-2c75-4792-804e-4c949a50419b))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R65") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R65") (unit 1)
@@ -4521,8 +4871,13 @@
     (property "Datasheet" "" (at 264.922 155.956 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a4e089e-93c4-4906-a27c-c0fa9200f763))
+    (pin "1" (uuid 8a2b3b7c-aff4-4373-a0a8-4510896d644d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR043") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR043") (unit 1)
@@ -4551,9 +4906,14 @@
     (property "Datasheet" "~" (at 334.772 106.934 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7587c441-fbbe-47ed-b670-29e9844aa03c))
-    (pin "2" (uuid e26e8426-86c5-4cff-99e7-f4e33e58b275))
+    (pin "1" (uuid 9410ef0b-e544-4117-86d3-314eb9593574))
+    (pin "2" (uuid bca72dd2-c8aa-4255-bcd9-55b145d4c94e))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C18") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C18") (unit 1)
@@ -4582,8 +4942,13 @@
     (property "Datasheet" "" (at 405.384 133.096 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d533d90-2aba-4ed7-96e8-9bf747b8814a))
+    (pin "1" (uuid f9fef657-9bf8-459c-85ca-b1a296e0b101))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR074") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR074") (unit 1)
@@ -4612,9 +4977,14 @@
     (property "Datasheet" "~" (at 185.42 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fef39e11-6ca9-455c-bbb3-c640bf57c1f5))
-    (pin "2" (uuid 703af1fb-a613-4c4e-8279-8cdcf361d936))
+    (pin "1" (uuid d57b63fd-1576-4399-938e-914b60e930c8))
+    (pin "2" (uuid 0161b8b8-b985-4777-8584-44e9e19d38e0))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R14") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R14") (unit 1)
@@ -4643,8 +5013,13 @@
     (property "Datasheet" "" (at 241.808 91.694 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 723ea40f-3448-4506-b464-9d0b71040638))
+    (pin "1" (uuid 546df03a-7951-4903-be23-c4753db25608))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR033") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR033") (unit 1)
@@ -4673,9 +5048,14 @@
     (property "Datasheet" "~" (at 312.166 189.992 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea169cee-47cf-48c7-a237-b1094bcf3b20))
-    (pin "2" (uuid 173eec1e-4a63-4609-b4a8-f0d9382e01d4))
+    (pin "1" (uuid 49b36e28-bbd4-4181-8dfc-3ef01d239c7b))
+    (pin "2" (uuid d3291b3d-467c-42f5-bcb3-288ce73999d5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R40") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R40") (unit 1)
@@ -4704,9 +5084,14 @@
     (property "Datasheet" "~" (at 382.524 99.568 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 313b26a1-1c21-410b-8706-9acdddc7836c))
-    (pin "2" (uuid 0ffb509e-f015-4d2b-b9a2-e24ec4f318aa))
+    (pin "1" (uuid 4c8c4404-0c42-42a3-b5b0-2c66100692fb))
+    (pin "2" (uuid c466738a-b0e6-4bc8-bbf2-19896caf4e83))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R52") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R52") (unit 1)
@@ -4735,9 +5120,14 @@
     (property "Datasheet" "~" (at 255.778 125.222 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8bed3ca2-9f39-4c88-9e05-a5d58c0a2e32))
-    (pin "2" (uuid 472d51d8-e0de-4819-9f72-6035f39889d8))
+    (pin "1" (uuid 14aff2fd-bf70-4614-9b0a-4bc0cee1d411))
+    (pin "2" (uuid 1c64e7b4-cdc3-47ef-87c6-341d15759b68))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R29") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R29") (unit 1)
@@ -4766,8 +5156,13 @@
     (property "Datasheet" "" (at 405.638 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 87d0ac02-d031-4ec9-afc2-e3aa3a33378f))
+    (pin "1" (uuid 657f8c9c-4f57-4879-bf51-7decfe8732c1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR075") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR075") (unit 1)
@@ -4796,8 +5191,13 @@
     (property "Datasheet" "" (at 405.638 178.308 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c356aee1-3582-4c74-9239-36e2efa5fac2))
+    (pin "1" (uuid d88b89a4-8374-487e-8f7e-da6b347191cf))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR076") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR076") (unit 1)
@@ -4826,8 +5226,13 @@
     (property "Datasheet" "" (at 382.524 114.046 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ab713865-5a2a-42fc-a4f3-00a0142c22e4))
+    (pin "1" (uuid ab37ba8c-96b7-43a7-b7de-2ae339a0a936))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR066") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR066") (unit 1)
@@ -4856,8 +5261,13 @@
     (property "Datasheet" "" (at 312.166 136.906 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28544db3-9e22-431b-82b0-17c04b18cf23))
+    (pin "1" (uuid d001fce5-bef2-4f80-bb97-87966389a33e))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR051") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR051") (unit 1)
@@ -4886,9 +5296,14 @@
     (property "Datasheet" "~" (at 242.062 144.526 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 01801833-6e28-4fbe-855c-a48c477fa576))
-    (pin "2" (uuid da459599-52f4-4ef6-baed-a42bc66aca3b))
+    (pin "1" (uuid 9d7e0990-07e8-4843-b848-36bead5a1ea8))
+    (pin "2" (uuid e62b66c8-d15b-4642-9d1b-e66987fcd506))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R22") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R22") (unit 1)
@@ -4917,8 +5332,13 @@
     (property "Datasheet" "" (at 382.778 182.626 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b8b8c5e2-47db-480c-a898-105214937ff9))
+    (pin "1" (uuid 6f16bebd-9f40-4c91-bd3b-99cc275bb123))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR069") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR069") (unit 1)
@@ -4947,8 +5367,13 @@
     (property "Datasheet" "" (at 194.31 201.676 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fbcbb50f-cbc2-463d-94f9-47fbf36e9f4d))
+    (pin "1" (uuid 5873f37f-e67a-43a6-b76f-0727a0b18a45))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR029") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR029") (unit 1)
@@ -4977,9 +5402,14 @@
     (property "Datasheet" "~" (at 335.026 152.146 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4c0c19b4-e634-46d9-a3b2-55c680532894))
-    (pin "2" (uuid c8b6f071-12ae-44b5-b3b1-2e9da1c919ba))
+    (pin "1" (uuid 5729a27b-6d59-4991-a771-e1e569aee762))
+    (pin "2" (uuid 8fc66e5f-95a3-4041-ac98-842f137c550d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C20") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C20") (unit 1)
@@ -5008,9 +5438,14 @@
     (property "Datasheet" "~" (at 171.196 121.666 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5f2303c-b7a6-4104-8697-d775998f2641))
-    (pin "2" (uuid 04ee8a40-507a-4f90-86b8-724951b12608))
+    (pin "1" (uuid 823f4463-b535-4994-97fd-2bffbe55b97a))
+    (pin "2" (uuid 39e059c6-bae2-4b9c-9306-c854ea775f75))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R5") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R5") (unit 1)
@@ -5039,9 +5474,14 @@
     (property "Datasheet" "~" (at 242.062 189.992 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aa1cc715-6f5a-4f44-9bff-36b9b379fbd0))
-    (pin "2" (uuid 98406261-a570-4638-bc4e-376013106312))
+    (pin "1" (uuid e3f380f4-9fed-4141-b55d-da68b77981a5))
+    (pin "2" (uuid 26b26213-559e-4206-bfda-2376640c29dd))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R24") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R24") (unit 1)
@@ -5070,9 +5510,14 @@
     (property "Datasheet" "~" (at 335.026 269.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a788912-88fb-4aa5-8ca1-cc169420f49f))
-    (pin "2" (uuid 1af7297d-b74d-4e76-ae91-667f4ccb3aa7))
+    (pin "1" (uuid 75dc7eab-d16f-4728-b4d7-fe1c77a202e2))
+    (pin "2" (uuid 8b152d5f-3640-4ddd-baef-fbc0b89028c5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C25") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C25") (unit 1)
@@ -5101,9 +5546,14 @@
     (property "Datasheet" "~" (at 256.032 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07f18edd-1452-4aa0-8c44-00da6c0872df))
-    (pin "2" (uuid 19d8aee9-2818-4b93-a782-c0dbab5e2c57))
+    (pin "1" (uuid 9b024655-9660-4435-9af0-bc2ed0230cb6))
+    (pin "2" (uuid 2e08c759-7f78-45b6-90aa-5c35b5cef99c))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R33") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R33") (unit 1)
@@ -5132,8 +5582,13 @@
     (property "Datasheet" "" (at 194.056 133.096 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8424919c-3d2d-4223-b8d8-fdbafa2c6f61))
+    (pin "1" (uuid 1906ab03-806d-47f4-a3cb-7fe3c6a41b95))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR026") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR026") (unit 1)
@@ -5162,9 +5617,14 @@
     (property "Datasheet" "~" (at 242.062 166.624 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 54ce3ab0-4447-441a-b420-d0342ed3dd5e))
-    (pin "2" (uuid ba6b5c4c-3e69-4dcb-875c-5264700444f6))
+    (pin "1" (uuid 0a602701-51ed-4483-a932-268c285e7b42))
+    (pin "2" (uuid 1da5f359-1802-4074-ba33-066b93440525))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R23") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R23") (unit 1)
@@ -5193,9 +5653,14 @@
     (property "Datasheet" "~" (at 405.638 243.078 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1362a9d9-171b-4470-8bab-77d5f70ef30b))
-    (pin "2" (uuid 9eb98011-43f2-4c10-a17e-186cb2e8f260))
+    (pin "1" (uuid d353953b-bb3a-47f0-add3-8dd2aee12218))
+    (pin "2" (uuid fb344a88-570a-4547-b6c6-de9706da946c))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C32") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C32") (unit 1)
@@ -5224,8 +5689,13 @@
     (property "Datasheet" "" (at 334.772 110.744 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28c64c43-700f-46a6-82f8-c27f1284b927))
+    (pin "1" (uuid 1ab21a98-53d8-418a-a9e5-b72b862017e5))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR057") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR057") (unit 1)
@@ -5254,8 +5724,13 @@
     (property "Datasheet" "" (at 264.922 178.054 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a564e105-c792-4b43-99c0-2cecdb5213cc))
+    (pin "1" (uuid ecafb82c-abf4-470c-9aae-9b9593ebb4f7))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR044") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR044") (unit 1)
@@ -5284,9 +5759,14 @@
     (property "Datasheet" "~" (at 326.136 148.336 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 527715aa-9b94-48d8-80b3-d15d906bf8e9))
-    (pin "2" (uuid 49364c95-c43f-4468-9554-374f44c877e6))
+    (pin "1" (uuid ec22d6ba-3145-4c69-b1ee-b8cd3d188247))
+    (pin "2" (uuid b1aee8d4-62e2-4e81-b9e6-ea3e525f4790))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R46") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R46") (unit 1)
@@ -5315,8 +5795,13 @@
     (property "Datasheet" "" (at 194.31 273.304 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc255f1f-2a89-449a-a432-8cd45acc693f))
+    (pin "1" (uuid 5cf2cd12-e9d4-4939-b6a8-d72324539afc))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR032") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR032") (unit 1)
@@ -5345,9 +5830,14 @@
     (property "Datasheet" "~" (at 256.032 170.434 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 128a2a9d-703f-4b37-b04e-010255f195d4))
-    (pin "2" (uuid d63d7da6-b7ff-41d5-acdf-b9d2203cb7d1))
+    (pin "1" (uuid 2ffaa4c2-3955-442d-b60b-0218489406b9))
+    (pin "2" (uuid 16c34d6a-fadd-4df9-9a4e-76cc17bca0de))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R31") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R31") (unit 1)
@@ -5376,8 +5866,13 @@
     (property "Datasheet" "" (at 264.668 110.744 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c99f16b3-10de-48c9-a5e7-3ca905184afd))
+    (pin "1" (uuid f1dc1f1e-78ee-4c0c-a41c-5c7bdf82cd12))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR041") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR041") (unit 1)
@@ -5406,9 +5901,14 @@
     (property "Datasheet" "~" (at 194.31 219.964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19699e70-f271-4ea3-b376-65c4639159fb))
-    (pin "2" (uuid a366f270-da7d-42cc-813d-9f7a4d66c2f8))
+    (pin "1" (uuid 1afae1c0-d498-416c-806d-12c9c8ea9adf))
+    (pin "2" (uuid 7b773754-e258-46b0-9df0-23fba8c2a9ed))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C7") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C7") (unit 1)
@@ -5437,8 +5937,13 @@
     (property "Datasheet" "" (at 171.45 204.724 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6dc2665-d793-4153-8552-cd9e09036f16))
+    (pin "1" (uuid cb71652a-3a94-427a-b639-cc7787e3d2c4))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR022") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR022") (unit 1)
@@ -5467,9 +5972,14 @@
     (property "Datasheet" "~" (at 311.912 121.412 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21348e3c-0ce2-4c30-aadc-f9dfe31a661e))
-    (pin "2" (uuid afda1a19-a2c9-4be4-9abe-78d1a7ee305c))
+    (pin "1" (uuid 0704ce40-17d5-4b2f-a870-91e55bb9a67b))
+    (pin "2" (uuid 28d28d4a-b3ab-4dda-bb58-b17f585fdc66))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R37") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R37") (unit 1)
@@ -5498,9 +6008,14 @@
     (property "Datasheet" "~" (at 256.032 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc485504-ed5c-4f25-b4da-116386613284))
-    (pin "2" (uuid 34514ed1-ad4a-40aa-944a-8238d322c950))
+    (pin "1" (uuid aa828dea-fc8b-4202-90c6-f81f5e3b1662))
+    (pin "2" (uuid 3fe80337-6a09-4bb8-bd95-c502ef29108b))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R34") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R34") (unit 1)
@@ -5529,8 +6044,13 @@
     (property "Datasheet" "" (at 194.056 110.998 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d991968-5927-49ba-a2ea-b0f79fae61d0))
+    (pin "1" (uuid 8b657ca3-2686-4e1b-a734-6bcaae918bcb))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR025") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR025") (unit 1)
@@ -5559,8 +6079,13 @@
     (property "Datasheet" "" (at 171.45 227.838 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f4df42f-2369-449b-b052-e9ee92fbdab2))
+    (pin "1" (uuid f58a2530-508f-4e80-9e74-1654910b2643))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR023") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR023") (unit 1)
@@ -5589,9 +6114,14 @@
     (property "Datasheet" "~" (at 405.638 197.866 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid afaaca3c-d8c7-4581-9bdf-0f7cf5009d9a))
-    (pin "2" (uuid e2448c50-deef-4b1d-9185-d84a0baeb643))
+    (pin "1" (uuid 4280726c-fce1-48d1-b852-16b19d6b4154))
+    (pin "2" (uuid 2c37c687-08ac-4a59-81f3-57170d2da5bd))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C30") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C30") (unit 1)
@@ -5620,8 +6150,13 @@
     (property "Datasheet" "" (at 335.026 155.956 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2827ba68-bfff-4ee6-892d-d29c6afb4f34))
+    (pin "1" (uuid c15d0285-44e5-4e32-8671-0a4b6538766d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR059") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR059") (unit 1)
@@ -5650,9 +6185,14 @@
     (property "Datasheet" "~" (at 396.748 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1972078d-48e0-4fda-9b2b-b7283af0c36d))
-    (pin "2" (uuid 9df40604-fdc6-4be7-96e2-81ccfe2c5176))
+    (pin "1" (uuid 3ba45c82-0f83-44cf-9282-456995d15798))
+    (pin "2" (uuid a6123458-06d5-4a3a-9ebd-0aff84b6b53c))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R62") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R62") (unit 1)
@@ -5681,9 +6221,14 @@
     (property "Datasheet" "~" (at 311.912 99.314 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a7bd7b45-9bc5-4d01-b879-6b176d83c2f0))
-    (pin "2" (uuid 87a9d4e5-2912-4ce5-961f-6d09ad2b1577))
+    (pin "1" (uuid 9914c210-e8ba-4bae-b538-9b29ea05d274))
+    (pin "2" (uuid 9d7ed7b0-fe9e-4a02-8fb8-0b35a65d7ddf))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R36") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R36") (unit 1)
@@ -5712,8 +6257,13 @@
     (property "Datasheet" "" (at 405.638 201.676 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a655139b-7f7d-489b-9b78-0fb406af281e))
+    (pin "1" (uuid f7b76664-afe8-4e39-8f92-748b534ccc0f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR077") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR077") (unit 1)
@@ -5742,8 +6292,13 @@
     (property "Datasheet" "" (at 382.778 254.254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1bd15d74-92dd-42ab-894a-dad67c13c06c))
+    (pin "1" (uuid 43c547b8-9eff-4ea2-a3b8-35b5f7237e34))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR072") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR072") (unit 1)
@@ -5772,9 +6327,14 @@
     (property "Datasheet" "~" (at 194.31 243.078 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8d49b4e2-7c81-4401-86dc-cebfdb3e4a3d))
-    (pin "2" (uuid b985c92a-79d9-4b95-8690-a6067eaaa20c))
+    (pin "1" (uuid 175facc7-cbb5-4984-b809-9510192d3b2d))
+    (pin "2" (uuid 0b2d53c9-843a-4c83-891a-9d0b1be3536c))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C8") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C8") (unit 1)
@@ -5803,8 +6363,13 @@
     (property "Datasheet" "" (at 312.166 227.584 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 752d39a0-2894-47e6-9128-e2d73a43da50))
+    (pin "1" (uuid 93d47d6c-fb79-42ba-9bd5-bafe38a191dc))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR055") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR055") (unit 1)
@@ -5833,9 +6398,14 @@
     (property "Datasheet" "~" (at 396.748 239.268 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc5aac97-817c-4634-90ac-4171dd22aa1a))
-    (pin "2" (uuid 2f913431-5ff8-4ded-817b-08aaf839a583))
+    (pin "1" (uuid d106f694-a5b9-46fa-8cfa-ea25186bbccd))
+    (pin "2" (uuid 4d39936d-5d9d-4a0c-9dac-5b177d1ed150))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R66") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R66") (unit 1)
@@ -5864,8 +6434,13 @@
     (property "Datasheet" "" (at 335.026 178.054 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bba748cd-ef6a-4b1d-9a9a-b2ed759b77b3))
+    (pin "1" (uuid b5dbb679-6036-40db-b745-4c51717f1543))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR060") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR060") (unit 1)
@@ -5894,9 +6469,14 @@
     (property "Datasheet" "~" (at 194.31 174.498 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c23d248-c5ff-4c21-86aa-29ba90c77870))
-    (pin "2" (uuid b20f261d-83bc-45ac-bc94-700debc10fbd))
+    (pin "1" (uuid b4e645b4-634a-4b81-8cac-6a622829e550))
+    (pin "2" (uuid c5e24755-4f2f-4045-bd68-763180a3c9f6))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C5") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C5") (unit 1)
@@ -5925,8 +6505,13 @@
     (property "Datasheet" "" (at 171.45 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9f9121b-5fa6-4a07-85c2-b7d31decdc75))
+    (pin "1" (uuid 31f4acc3-52b1-4266-8dd5-44c1516fc328))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR019") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR019") (unit 1)
@@ -5955,8 +6540,13 @@
     (property "Datasheet" "" (at 171.45 254.254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b90149c6-bc80-4212-9fc5-b0cc343be583))
+    (pin "1" (uuid 27cef934-2de7-40c7-aa99-cb9ea7d2554a))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR024") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR024") (unit 1)
@@ -5985,9 +6575,14 @@
     (property "Datasheet" "~" (at 382.778 212.344 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ce52d31-b5c4-4a75-a915-59baca725475))
-    (pin "2" (uuid 96fa0675-2558-42c0-b9c5-1e8d57c218a9))
+    (pin "1" (uuid d43dd143-cc08-4e66-8568-6ca6c905c5ee))
+    (pin "2" (uuid 1a006d58-fd23-4af6-86e1-0e1dfa5cfe27))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R57") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R57") (unit 1)
@@ -6016,9 +6611,14 @@
     (property "Datasheet" "~" (at 396.494 125.476 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f24862ce-2c23-4291-9117-78b0c1055e19))
-    (pin "2" (uuid 8f27e04b-0a9c-44d4-bbbb-b276042d122c))
+    (pin "1" (uuid eb8a095e-e116-49a5-8879-d3625412ea94))
+    (pin "2" (uuid 009740d0-3195-41f1-8c78-71883596ab47))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R61") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R61") (unit 1)
@@ -6047,9 +6647,14 @@
     (property "Datasheet" "~" (at 312.166 235.204 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c5a30b5-abc7-44e3-88cf-8282de1774dd))
-    (pin "2" (uuid 42a5c747-c48f-44a4-942d-fe59e240f0fe))
+    (pin "1" (uuid ba2dfa51-459b-4caa-b296-f639b54fa828))
+    (pin "2" (uuid 906ca58b-ab3c-48eb-92c5-01e54ed3f453))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R42") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R42") (unit 1)
@@ -6078,8 +6683,13 @@
     (property "Datasheet" "" (at 264.922 246.634 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6d612fb7-b5c7-4f16-85cd-e20ca1ec117e))
+    (pin "1" (uuid cd508231-7d5d-4c00-8484-a4c76d0714f0))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR047") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR047") (unit 1)
@@ -6108,8 +6718,13 @@
     (property "Datasheet" "" (at 194.31 223.774 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b22c731-02fc-4dd6-a6a8-c7262fa034b7))
+    (pin "1" (uuid e3d462c2-48cb-4477-808c-76b61bde911d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR030") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR030") (unit 1)
@@ -6138,9 +6753,14 @@
     (property "Datasheet" "~" (at 326.136 239.014 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a66436df-1426-47dd-86e8-479d2672d5af))
-    (pin "2" (uuid c8d72697-a784-4410-b470-92e12de4d66b))
+    (pin "1" (uuid acf6cded-8044-48de-9bda-3479972df848))
+    (pin "2" (uuid 99ae04fa-2e8e-46a8-aa73-9145ea528841))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R50") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R50") (unit 1)
@@ -6169,9 +6789,14 @@
     (property "Datasheet" "~" (at 242.062 235.204 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b53bcb6-b4a3-4338-83a2-aae0d9f73f78))
-    (pin "2" (uuid 1ff2f38b-1984-4379-9b92-95781e69ac94))
+    (pin "1" (uuid 531283c5-35e2-49fb-87f1-d34e50fff2b7))
+    (pin "2" (uuid c392a331-bd96-4d86-b4ca-acbf16f10abb))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R26") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R26") (unit 1)
@@ -6200,8 +6825,13 @@
     (property "Datasheet" "" (at 264.668 132.842 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 76f6beb2-6f4f-4cf4-b825-02b42beb56c0))
+    (pin "1" (uuid d4b9a806-c9b9-4ec4-aef1-cef8069ae5f3))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR042") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR042") (unit 1)
@@ -6230,8 +6860,13 @@
     (property "Datasheet" "" (at 382.524 91.948 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b28cb87-e93b-4d07-b325-ddc9473fea6f))
+    (pin "1" (uuid ce997a90-dded-4500-913c-8e9d364e75f1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR065") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR065") (unit 1)
@@ -6260,9 +6895,14 @@
     (property "Datasheet" "~" (at 264.922 269.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0d8a413-ab94-47cf-95bf-adf61c2b7943))
-    (pin "2" (uuid af284b67-5ab6-47c0-a165-6799caa002b2))
+    (pin "1" (uuid e8f4950c-1923-4e6a-a8c1-87e3d4eb3d74))
+    (pin "2" (uuid 51257a15-e2f4-41e1-9a7c-350b517d3009))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C17") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C17") (unit 1)
@@ -6291,9 +6931,14 @@
     (property "Datasheet" "~" (at 396.494 103.378 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c3772ba7-588a-4f42-b0a6-bf390a9424af))
-    (pin "2" (uuid 45b2d533-e099-44df-80d6-fdf020c0d3c1))
+    (pin "1" (uuid d18762a0-1ac5-42cc-8fdb-a4eaa714f0a4))
+    (pin "2" (uuid 3dbdf40f-4a15-4106-8203-3a64998fc5a1))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R60") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R60") (unit 1)
@@ -6322,9 +6967,14 @@
     (property "Datasheet" "~" (at 325.882 125.222 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4086fac-f13e-41f3-9895-457075856502))
-    (pin "2" (uuid c96b0441-3b41-432e-85d3-86f80cad7c96))
+    (pin "1" (uuid 84019847-b30a-4380-b491-bf0245879d7b))
+    (pin "2" (uuid 09aedabf-8275-4e91-8f85-bd53cdf3218f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R45") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R45") (unit 1)
@@ -6353,9 +7003,14 @@
     (property "Datasheet" "~" (at 326.136 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6368a00d-ac58-42a9-845b-7a76dba3aa9e))
-    (pin "2" (uuid bbc7e5fc-1b9d-4c8b-8d60-4ab8a2483f9b))
+    (pin "1" (uuid df78c9ac-ff22-42ba-ac01-96ce398c3c1e))
+    (pin "2" (uuid 7e840e58-7dc8-4c26-ace9-d94b875ae795))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R49") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R49") (unit 1)
@@ -6384,9 +7039,14 @@
     (property "Datasheet" "~" (at 194.31 269.494 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7040382-a4c8-4bff-89f8-220b668b9795))
-    (pin "2" (uuid 6f5e9760-3506-4415-bcb5-5d4b5704644f))
+    (pin "1" (uuid 3b5b0e8d-a6ac-4e2d-bc6d-e54a0be7da16))
+    (pin "2" (uuid 322eb438-ec08-49d4-864c-a13d4cd79442))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C9") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C9") (unit 1)
@@ -6415,8 +7075,13 @@
     (property "Datasheet" "" (at 334.772 132.842 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 68a83209-9c92-4930-bf1f-a12d70e33a3a))
+    (pin "1" (uuid b3fa4df4-6a69-44b7-8b72-d39995fc5cfc))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR058") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR058") (unit 1)
@@ -6445,9 +7110,14 @@
     (property "Datasheet" "~" (at 241.808 121.412 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e0aa936c-d788-4170-aebe-7ae6d4adde0c))
-    (pin "2" (uuid 34afd4f6-72c4-4f21-8d54-ab444738bd11))
+    (pin "1" (uuid 8c85315b-b794-45e0-b5e5-ecaa5bc5b748))
+    (pin "2" (uuid 731a059f-01b1-482d-a430-4cbdabf60bf7))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R21") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R21") (unit 1)
@@ -6476,8 +7146,13 @@
     (property "Datasheet" "" (at 382.778 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a831e6ac-50b7-4275-b97d-51626773ffeb))
+    (pin "1" (uuid c109d0db-dca5-40c5-abe5-815df677e589))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR067") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR067") (unit 1)
@@ -6506,9 +7181,14 @@
     (property "Datasheet" "~" (at 256.032 148.336 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 53cb8de1-9d64-483e-ba24-26737e302a68))
-    (pin "2" (uuid 1e7f54fa-390a-4098-a9e3-db1416051ba9))
+    (pin "1" (uuid 8e751387-ef72-4919-bd34-aa270662f2e7))
+    (pin "2" (uuid c1e3f8e9-d97e-4b15-9097-4388b0f4cbb4))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R30") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R30") (unit 1)
@@ -6537,8 +7217,13 @@
     (property "Datasheet" "" (at 312.166 159.004 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e182c33c-a983-43be-9b8d-78e506c9e568))
+    (pin "1" (uuid 14afe3bb-a08e-481f-8767-6895920f0476))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR052") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR052") (unit 1)
@@ -6567,8 +7252,13 @@
     (property "Datasheet" "" (at 241.808 113.792 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2261126b-9f8d-450c-9e86-4b25aee13c3a))
+    (pin "1" (uuid a43e437d-4701-4262-bad9-c597c8698f64))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR034") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR034") (unit 1)
@@ -6597,9 +7287,14 @@
     (property "Datasheet" "~" (at 334.772 129.032 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5642ffeb-3240-4868-babd-8c4f12c1cf7c))
-    (pin "2" (uuid 05fb53d9-e715-41cc-bbe2-0b28c6ac2df2))
+    (pin "1" (uuid eabab586-f9a0-4b88-a82e-ee4f507b3de8))
+    (pin "2" (uuid ce6fdb8f-8a58-4039-a067-d3fd239c617d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C19") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C19") (unit 1)
@@ -6628,9 +7323,14 @@
     (property "Datasheet" "~" (at 264.668 129.032 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a9f2eef-290e-4682-a981-2a3266cf8aa6))
-    (pin "2" (uuid af107474-33cf-4830-9397-db33effffacb))
+    (pin "1" (uuid 4e1e8eb9-0d63-483a-808e-ca3eb93ade58))
+    (pin "2" (uuid a3fbacd0-2bea-4cdb-a48a-e204c068e5f2))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C11") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C11") (unit 1)
@@ -6659,9 +7359,14 @@
     (property "Datasheet" "~" (at 396.748 265.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a852cde8-6dcb-447f-885a-4186e4b615dc))
-    (pin "2" (uuid bbe7f358-f155-47c9-a8f9-0f8f2aa6beb7))
+    (pin "1" (uuid e7730f8a-514f-4e92-be37-cb0ce8581a6e))
+    (pin "2" (uuid 2f3d96ee-ab09-4139-928d-a51070eec3c3))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R67") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R67") (unit 1)
@@ -6690,8 +7395,13 @@
     (property "Datasheet" "" (at 311.912 113.792 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 94245b9e-d19e-462e-b390-330bff913367))
+    (pin "1" (uuid ae61b78f-e4f9-4cf7-a040-f6acdda8d820))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR050") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR050") (unit 1)
@@ -6720,8 +7430,13 @@
     (property "Datasheet" "" (at 405.638 246.888 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d52b9885-84b5-4f8d-8a8a-db68703d75fa))
+    (pin "1" (uuid fc888895-653f-48cc-93cb-b42773bfcd6f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR079") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR079") (unit 1)
@@ -6750,9 +7465,14 @@
     (property "Datasheet" "~" (at 242.062 261.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37c2f131-7463-458b-9b75-a8e86be7d869))
-    (pin "2" (uuid 860eeca8-ddc5-43e1-bc1e-20c48210d438))
+    (pin "1" (uuid a3a8507e-55fa-4c23-8574-1eda2fabd3e8))
+    (pin "2" (uuid dd4c7455-ceaf-4075-abde-7ead8b5df3de))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R27") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R27") (unit 1)
@@ -6781,8 +7501,13 @@
     (property "Datasheet" "" (at 335.026 201.422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15b443a9-f0d4-4ee2-a5e6-5d4fa3872bf7))
+    (pin "1" (uuid c8fe2586-41f4-4257-bbdc-dee176f00c1f))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR061") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR061") (unit 1)
@@ -6811,9 +7536,14 @@
     (property "Datasheet" "~" (at 185.42 216.154 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21b91461-1c39-485a-9f85-bfa959fc72b1))
-    (pin "2" (uuid 32e45115-b085-46ef-9595-71d89f484329))
+    (pin "1" (uuid 2ceecb27-cb5a-4059-8b0c-d4c3c964ede0))
+    (pin "2" (uuid 7b5c2a5e-3c75-4253-918b-9f0b290ef2c9))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R17") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R17") (unit 1)
@@ -6842,8 +7572,13 @@
     (property "Datasheet" "" (at 242.062 159.004 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f1828031-0186-40ff-80d9-5186ca03edef))
+    (pin "1" (uuid 896aa7c1-26a8-4d93-b30b-283c438ea20a))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR036") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR036") (unit 1)
@@ -6872,8 +7607,13 @@
     (property "Datasheet" "" (at 264.922 201.422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 956386dc-4993-4569-a22d-a672b70ad5bb))
+    (pin "1" (uuid 4d0bf34e-c244-4fe8-8bed-41839a2be944))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR045") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR045") (unit 1)
@@ -6902,9 +7642,14 @@
     (property "Datasheet" "~" (at 185.42 265.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 572e8d9f-f893-4a4d-9c24-f409f4ef77de))
-    (pin "2" (uuid 1ed5f102-e81b-4d74-a1c2-d18b9d1ad13a))
+    (pin "1" (uuid 56cc0525-4ab4-40c2-80fc-ee20296fdb66))
+    (pin "2" (uuid 80d5d1dd-2bf9-478a-9244-b4cf54b53435))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R19") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R19") (unit 1)
@@ -6933,9 +7678,14 @@
     (property "Datasheet" "~" (at 264.922 174.244 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c1cc6225-dc81-44bc-b01e-89de83a07509))
-    (pin "2" (uuid 9709ebdc-3a82-449e-9a2c-0b899711e5cc))
+    (pin "1" (uuid 36d2ff50-360b-4058-a527-b1d7d6ca8c0b))
+    (pin "2" (uuid 32e60ff1-b266-4088-9d85-e973d20ec479))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C13") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C13") (unit 1)
@@ -6964,9 +7714,14 @@
     (property "Datasheet" "~" (at 326.136 170.434 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a2a8c284-9657-4cfc-8dc3-688c5a13af53))
-    (pin "2" (uuid f93c2ad1-4198-4f10-aaa9-8959cf501d12))
+    (pin "1" (uuid ab69ceaa-65ad-4d3b-99f5-15f2da89e58f))
+    (pin "2" (uuid 17422a8d-de65-496a-b52d-74e357b3b840))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R47") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R47") (unit 1)
@@ -6995,8 +7750,13 @@
     (property "Datasheet" "" (at 264.922 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 548598b6-0ec9-454e-8405-70877d603277))
+    (pin "1" (uuid bea38fa7-aca2-4223-88e4-2d5ef456d396))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR046") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR046") (unit 1)
@@ -7025,9 +7785,14 @@
     (property "Datasheet" "~" (at 335.026 174.244 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bdb3df1d-f9cf-445d-aeeb-ec5ec9e5b6fa))
-    (pin "2" (uuid 8a4b35ba-0626-4ee8-9a39-e75b6bbb108d))
+    (pin "1" (uuid e12ba2c2-5b81-4645-b741-dd1f98b4ccf0))
+    (pin "2" (uuid 916d1f5b-226e-4e55-b51f-d6e4428ac8ab))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C21") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C21") (unit 1)
@@ -7056,9 +7821,14 @@
     (property "Datasheet" "~" (at 242.062 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f640041a-ed16-434d-b0f9-a7b838732f00))
-    (pin "2" (uuid 53eb6d12-3dbe-49cf-b165-05a831e7ceb2))
+    (pin "1" (uuid dacc4de4-a7fc-4b44-ab08-d85ff853b92e))
+    (pin "2" (uuid 4a067613-bab2-434c-86d1-89401d3a3e16))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R25") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R25") (unit 1)
@@ -7087,9 +7857,14 @@
     (property "Datasheet" "~" (at 171.45 166.878 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a960ca57-c55b-4e98-ad0c-f5d1f7039a35))
-    (pin "2" (uuid 83952322-9d69-48e1-899b-b4e1f7a1d515))
+    (pin "1" (uuid 5f7d079e-b978-4d43-83b1-67ae2068d259))
+    (pin "2" (uuid 1aff678e-a99d-40f5-a6ae-29c5bf86783a))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R7") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R7") (unit 1)
@@ -7118,9 +7893,14 @@
     (property "Datasheet" "~" (at 325.882 103.124 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 54e59a09-5fed-4327-aff9-c3a595226c9f))
-    (pin "2" (uuid 91bebb07-8c67-4e36-bf1b-df2071720f14))
+    (pin "1" (uuid eaa1bbdd-2f54-433c-a84c-33b16e3ca2bd))
+    (pin "2" (uuid be673905-c7fc-46c9-ae37-27df57d29015))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "R44") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "R44") (unit 1)
@@ -7149,8 +7929,13 @@
     (property "Datasheet" "" (at 171.45 182.626 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid db304bad-ed26-4f73-81c8-938e455ee8e6))
+    (pin "1" (uuid 063abe94-65e4-448f-9219-9049388a9fab))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR021") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR021") (unit 1)
@@ -7179,9 +7964,14 @@
     (property "Datasheet" "~" (at 264.922 242.824 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed2be83a-6780-493d-9522-95ad4d6088b2))
-    (pin "2" (uuid b7e6304a-8fa5-431e-ba10-4eccc4642c54))
+    (pin "1" (uuid 3749ab5e-09c0-4fa5-9ffe-a7f6d1edf2a0))
+    (pin "2" (uuid fd7b04bd-d6fa-447d-9c1a-066197b7ba3d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C16") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C16") (unit 1)
@@ -7210,9 +8000,14 @@
     (property "Datasheet" "~" (at 194.31 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd9bcd85-b591-4ff5-bf8e-5c995de8cbfd))
-    (pin "2" (uuid e446db9d-ed21-4d02-861a-3c35caeca74a))
+    (pin "1" (uuid 495c9a42-5c9b-43d5-b3ed-015978e3785d))
+    (pin "2" (uuid 71fefcab-2970-466b-8de1-165e1b30101d))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "C4") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "C4") (unit 1)
@@ -7241,8 +8036,13 @@
     (property "Datasheet" "" (at 311.912 91.694 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65c2d2a0-8178-40c5-8850-8a0a9eb8bc55))
+    (pin "1" (uuid fbf6f00e-c1a2-4962-be22-cf3b461f3797))
     (instances
+      (project "Analog Reader(NTC)"
+        (path "/c4414539-6264-4bea-9fce-ce34b2cb5b6b/03340ec9-30ea-4d41-b1f0-bab817f27927"
+          (reference "#PWR049") (unit 1)
+        )
+      )
       (project "FIxed NTC reader"
         (path "/c46dcc17-4871-47d7-b5e1-0a6ae58ced02/03340ec9-30ea-4d41-b1f0-bab817f27927"
           (reference "#PWR049") (unit 1)
