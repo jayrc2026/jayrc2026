@@ -1,9 +1,0 @@
-Manufacturer=NXP
-PartNumber=PCA9539RPW/Q900J
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline Packages
-PinCount=24
-Version=1.1
-Released=2020-02-17 06:39:17
-Downloaded=2023-06-25 11:14:06
-3D=Y

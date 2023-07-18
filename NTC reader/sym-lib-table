@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "NTC_Board")(type "KiCad")(uri "${KIPRJMOD}/NTC_Board/ADG732BSUZ-REEL.kicad_sym")(options "")(descr ""))
-)
