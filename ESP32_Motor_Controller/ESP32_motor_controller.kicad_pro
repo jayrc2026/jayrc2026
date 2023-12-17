@@ -322,6 +322,27 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "d5513c73-0b2e-4c11-95a5-1a5a57817bdf",
+      ""
+    ],
+    [
+      "209fcca1-f7d4-4289-b3bf-5661defcb7c7",
+      "Power"
+    ],
+    [
+      "82df8d2f-2443-4c36-95e7-ca7d449b0447",
+      "ESP32"
+    ],
+    [
+      "c781ab38-ed54-49c4-a9f0-9c65fa1fb3ab",
+      "CAN"
+    ],
+    [
+      "0b354adc-6466-4d3b-9269-746cf08d1a96",
+      "ULN2003"
+    ]
+  ],
   "text_variables": {}
 }

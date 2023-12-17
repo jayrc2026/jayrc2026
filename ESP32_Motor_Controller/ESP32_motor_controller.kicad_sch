@@ -1,5 +1,82 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d5513c73-0b2e-4c11-95a5-1a5a57817bdf)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 195.199 29.972) (size 50.927 38.735) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0b354adc-6466-4d3b-9269-746cf08d1a96)
+    (property "Sheetname" "ULN2003" (at 195.199 29.2604 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ULN2003.kicad_sch" (at 195.199 69.2916 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ESP32_motor_controller"
+        (path "/d5513c73-0b2e-4c11-95a5-1a5a57817bdf" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 54.229 36.322) (size 37.084 21.971) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 255 46 70 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 209fcca1-f7d4-4289-b3bf-5661defcb7c7)
+    (property "Sheetname" "Power" (at 54.229 35.6104 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 54.229 58.8776 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ESP32_motor_controller"
+        (path "/d5513c73-0b2e-4c11-95a5-1a5a57817bdf" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 117.602 35.179) (size 46.228 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 83 83 83 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 82df8d2f-2443-4c36-95e7-ca7d449b0447)
+    (property "Sheetname" "ESP32" (at 117.602 34.4674 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ESP32.kicad_sch" (at 117.602 64.9736 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ESP32_motor_controller"
+        (path "/d5513c73-0b2e-4c11-95a5-1a5a57817bdf" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 122.428 82.677) (size 36.576 25.146) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 30 127 190 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid c781ab38-ed54-49c4-a9f0-9c65fa1fb3ab)
+    (property "Sheetname" "CAN" (at 122.428 81.9654 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CAN.kicad_sch" (at 122.428 108.4076 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ESP32_motor_controller"
+        (path "/d5513c73-0b2e-4c11-95a5-1a5a57817bdf" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
